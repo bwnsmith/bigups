@@ -1,0 +1,79 @@
+body {
+	background: #e84c3c;
+	color: #fff;
+	font-family: 'gotham', sans-serif;
+	width: 100%;
+	margin:0;
+	padding:0;
+	height:100%;
+}
+
+h1 {
+	font-size: 5.0em;
+	background: #c0392b;
+	text-align: center;
+	width: 100%;
+}
+
+.title h1 {
+	padding: .2em 0;
+	font-weight: lighter;
+}
+
+.definition p {
+	font-family: "Book Antiqua",Palatino,"Palatino Linotype","Palatino LT STD",Georgia,serif;
+	font-size: 1.4em;
+}
+
+.definition {
+	margin: auto;
+	width: 40.0em;
+}
+
+p {
+	text-align: center;
+}
+
+.logo h1 {
+	font-family: 'gotham', sans-serif;
+	height: 1.0em;
+	width: 1.0em;
+	margin: auto;
+	margin-top: -.2em;
+	font-weight: lighter;
+	border-radius: 50%;
+	border-width: 5px;
+	border-color: black;
+}
+
+.social {
+	margin: auto;
+	width: 37.5em;
+	height: 15.6em;
+}
+
+.icons {
+	float: left;
+	margin: auto;
+	text-align: center;
+}
+
+.footer {
+    width: 100%;
+    height: 100px;
+    bottom: 0px;
+    position: fixed;
+    background: #e84c3c; 
+    margin-bottom: .4em;
+}
+
+a {
+	text-decoration: none;
+	color: #FEF;
+}
+
+a img {
+	margin-top: -.3em;
+}
+
+
